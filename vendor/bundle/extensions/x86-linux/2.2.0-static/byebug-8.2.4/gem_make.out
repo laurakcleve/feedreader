@@ -1,0 +1,4 @@
+/home/vagrant/.rbenv/versions/2.2.3/bin/ruby -r ./siteconf20160411-2180-1ag79il.rb extconf.rb
+creating Makefile
+
+Text file busy @ unlink_internal - ./siteconf20160411-2180-1ag79il.rb
